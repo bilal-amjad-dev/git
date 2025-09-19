@@ -1,4 +1,4 @@
-
+In this lab, we create a folder and create 2 files and `add`, `commit` and `push`
 
 
 
@@ -38,13 +38,13 @@ git config --global user.email "Your email"
 
 <img width="1600" height="900" alt="Image" src="https://github.com/user-attachments/assets/11029a67-1521-439c-a5b1-0b38f2dcc965" />
 
-**Git add**
+### Git add
 
 <img width="1600" height="900" alt="Image" src="https://github.com/user-attachments/assets/99187994-570d-4267-8895-09368ba71f8f" />
 
 <img width="1600" height="900" alt="Image" src="https://github.com/user-attachments/assets/b5655860-fc6f-427a-9b34-a76ede001584" />
 
-**Git commit**
+### Git commit
 
 <img width="1600" height="900" alt="Image" src="https://github.com/user-attachments/assets/efe3bdfb-fe3b-40b3-bfdf-26ac06254e09" />
 
@@ -85,7 +85,7 @@ git config --global user.email "Your email"
 <img width="1600" height="900" alt="Image" src="https://github.com/user-attachments/assets/bdb0121c-17ec-4e35-b78e-1a0777c3f688" />
 
 
-**Git push**
+### Git push
 
 
 <img width="1600" height="900" alt="Image" src="https://github.com/user-attachments/assets/91b74b76-b5af-4e0f-bea3-33ff661b7942" />

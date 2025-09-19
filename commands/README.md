@@ -74,3 +74,56 @@ git diff
 git log
 ```
 
+
+**To create new branch**
+```bash
+git branch <branchname>
+```
+
+**Switch to new branch**
+```bash
+git checkout <branchname>
+```
+```bash
+touch test2.txt
+```
+```bash
+git add .
+```
+```bash
+git commit -m "added test2.txt"
+```
+```bash
+git push -u origin <branchname>
+```
+
+
+**To merge new branch in main**
+
+> Notice here when you are merging to master you have to first ` git checkout master` and then you have to say `git merge and <branchname>` 
+
+```bash
+git merge <branchname>
+```
+```bash
+git push -u origin main
+```
+
+
+**Delete branch**
+```bash
+git branch -d <branchname>
+```
+```bash
+git push origin --delete <branchname>
+`
+
+
+
+
+
+
+
+
+
+

@@ -20,19 +20,14 @@ git config --global user.email "Your email"
 
 **Git init**
 
-
-
 <img width="1600" height="900" alt="Image" src="https://github.com/user-attachments/assets/16e222d0-3607-47e2-96d8-52bc553940a8" />
-
 
 <img width="1600" height="900" alt="Image" src="https://github.com/user-attachments/assets/34086e07-8db3-4b2e-aed4-df701bbea974" />
 
 
 **Create a file**
 
-
 <img width="1600" height="900" alt="Image" src="https://github.com/user-attachments/assets/11029a67-1521-439c-a5b1-0b38f2dcc965" />
-
 
 **Git add**
 
@@ -44,9 +39,14 @@ git config --global user.email "Your email"
 
 <img width="1600" height="900" alt="Image" src="https://github.com/user-attachments/assets/efe3bdfb-fe3b-40b3-bfdf-26ac06254e09" />
 
+**Do changes in the file**
+
 <img width="1600" height="900" alt="Image" src="https://github.com/user-attachments/assets/ab990841-213b-4979-b046-a3fdaca95bfa" />
 
 <img width="1600" height="900" alt="Image" src="https://github.com/user-attachments/assets/af622592-ea9e-4b4f-b6c4-8fc06dafa6d3" />
+
+**Create another new file**
+
 
 <img width="1600" height="900" alt="Image" src="https://github.com/user-attachments/assets/2f8cc561-dd18-4a39-9b2f-9008505d886f" />
 

@@ -87,11 +87,12 @@ git config --global user.email "Your email"
 
 
 
+<img width="1600" height="900" alt="Image" src="https://github.com/user-attachments/assets/91b74b76-b5af-4e0f-bea3-33ff661b7942" />
 
 
 
 
-<img width="1600" height="900" alt="Image" src="https://github.com/user-attachments/assets/1b353763-28a2-4c65-9553-98e33740085e" />
+
 
 <img width="1600" height="900" alt="Image" src="https://github.com/user-attachments/assets/14dd5841-705d-485a-ab71-a07f5006a9a2" />
 

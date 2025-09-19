@@ -37,8 +37,11 @@ git init
 
 
 
+**Git add**
 
-
+```bash
+git add 
+```
 
 <img width="1600" height="900" alt="Image" src="https://github.com/user-attachments/assets/11029a67-1521-439c-a5b1-0b38f2dcc965" />
 

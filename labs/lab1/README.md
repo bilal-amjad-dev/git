@@ -85,6 +85,7 @@ git config --global user.email "Your email"
 <img width="1600" height="900" alt="Image" src="https://github.com/user-attachments/assets/bdb0121c-17ec-4e35-b78e-1a0777c3f688" />
 
 
+**Git push**
 
 
 <img width="1600" height="900" alt="Image" src="https://github.com/user-attachments/assets/91b74b76-b5af-4e0f-bea3-33ff661b7942" />

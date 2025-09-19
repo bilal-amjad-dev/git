@@ -52,11 +52,21 @@ git config --global user.email "Your email"
 
 <img width="1600" height="900" alt="Image" src="https://github.com/user-attachments/assets/34a3636d-3350-48f2-bf96-8b5e1939e092" />
 
+
+**Git add**
+
 <img width="1600" height="900" alt="Image" src="https://github.com/user-attachments/assets/c6c15e0f-3520-4e4b-ac1d-afb390ee882a" />
+
+**Git commit**
+
 
 <img width="1600" height="900" alt="Image" src="https://github.com/user-attachments/assets/2ad23b1f-0bc0-474e-9a85-51178e71084c" />
 
 <img width="1600" height="900" alt="Image" src="https://github.com/user-attachments/assets/d5552c8c-71f8-4906-b205-017f70841c16" />
+
+
+
+
 
 <img width="1600" height="900" alt="Image" src="https://github.com/user-attachments/assets/04dcffac-f615-49bd-9842-b98ea7859ec9" />
 

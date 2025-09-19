@@ -1,6 +1,8 @@
-
+In this lab, we create a new branch and merge main branch with new branch.
 
 git branch MyNewBranch
+
+### Git branch
 
 <img width="1600" height="900" alt="Image" src="https://github.com/user-attachments/assets/b39aea1a-4075-465b-9ace-7b87a35d155d" />
 
@@ -86,6 +88,7 @@ O: delete branch
 p: you can see our branch has deleted 
 
 <img width="1600" height="900" alt="Image" src="https://github.com/user-attachments/assets/27bc9327-7d3a-43b2-9617-47f4d14b38c2" />
+
 
 
 

@@ -98,7 +98,7 @@ git push -u origin <branchname>
 ```
 
 
-**To merge new branch in main**
+**To merge new branch into main**
 
 > Notice here when you are merging to master you have to first ` git checkout master` and then you have to say `git merge and <branchname>` 
 
@@ -116,7 +116,7 @@ git branch -d <branchname>
 ```
 ```bash
 git push origin --delete <branchname>
-`
+```
 
 
 

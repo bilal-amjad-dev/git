@@ -36,7 +36,7 @@ git commit -m "commit message"
 
 **to push files from local repository to remote repository**
 ```bash
-git push -u orign master
+git push -u origin master
 ```
 
 

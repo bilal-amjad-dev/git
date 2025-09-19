@@ -1,25 +1,40 @@
 
 
-**Download git:**
+**Download git**
 ```bash
 https://git-scm.com/downloads
 ```
 
 
-**Git version:**
+**Git version**
 ```bash
 git --version
 ```
+
+
+**Git configure**
+```bash
+git config --global user.name "Your Name"
+git config --global user.email "Your email"
+```
+
+
 
 **Git init**
 ```bash
 git init
 ```
 
-**To git configure**
+**Git clone**
 ```bash
-git config --global user.name "Your Name"
-git config --global user.email "Your email"
+git clone <repository-url>
+```
+
+**or** 
+
+**Git remote add origin**
+```bash
+git remote add origin https://github.com/your-github-username/your-repo-name.git
 ```
 
 
@@ -34,7 +49,7 @@ git add <file-name>
 git commit -m "commit message"
 ```
 
-**to push files from local repository to remote repository**
+**To push files from local repository to remote repository**
 ```bash
 git push -u origin main
 ```

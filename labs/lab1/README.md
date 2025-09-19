@@ -13,7 +13,8 @@ git config --global user.name "Your Name"
 git config --global user.email "Your email"
 ```
 
-<img width="1600" height="900" alt="Image" src="https://github.com/user-attachments/assets/a3474622-27e6-4089-9bdb-f695bcb86631" />
+<img width="1600" height="900" alt="Image" src="https://github.com/user-attachments/assets/22281e3c-a421-4def-808f-6a9a4d1983af" />
+
 
 
 
@@ -86,9 +87,6 @@ git config --global user.email "Your email"
 
 
 
-
-
-<img width="1600" height="900" alt="Image" src="https://github.com/user-attachments/assets/22281e3c-a421-4def-808f-6a9a4d1983af" />
 
 <img width="1600" height="900" alt="Image" src="https://github.com/user-attachments/assets/1b353763-28a2-4c65-9553-98e33740085e" />
 

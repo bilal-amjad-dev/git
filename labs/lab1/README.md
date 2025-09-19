@@ -1,4 +1,6 @@
-In this lab, we create a folder and create 2 files and `add`, `commit` and `push`
+In this lab, we create a folder and create 2 files and `add`, `commit` and `push`.
+
+https://www.youtube.com/watch?v=sBTAkHOxvOk&list=PLhW3qG5bs-L8OlICbNX9u4MZ3rAt5c5GG
 
 
 

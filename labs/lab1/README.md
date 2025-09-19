@@ -44,11 +44,6 @@ git add
 
 
 
-
-<img width="1600" height="900" alt="Image" src="https://github.com/user-attachments/assets/9e462a4b-bf50-40f0-b1db-02f17e5a5c77" />
-
-
-
 <img width="1600" height="900" alt="Image" src="https://github.com/user-attachments/assets/99187994-570d-4267-8895-09368ba71f8f" />
 
 

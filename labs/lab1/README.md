@@ -13,6 +13,11 @@ git config --global user.name "Your Name"
 git config --global user.email "Your email"
 ```
 
+<img width="1600" height="900" alt="Image" src="https://github.com/user-attachments/assets/a3474622-27e6-4089-9bdb-f695bcb86631" />
+
+
+
+
 **Note:** Make a folder and go inside it
 
 <img width="1600" height="900" alt="Image" src="https://github.com/user-attachments/assets/41937291-22e5-470e-b328-1fe5132b18a7" />
@@ -65,18 +70,23 @@ git config --global user.email "Your email"
 <img width="1600" height="900" alt="Image" src="https://github.com/user-attachments/assets/d5552c8c-71f8-4906-b205-017f70841c16" />
 
 
-
+**Create Repository**
 
 
 <img width="1600" height="900" alt="Image" src="https://github.com/user-attachments/assets/04dcffac-f615-49bd-9842-b98ea7859ec9" />
+
+
+**Git remote add origin**
 
 <img width="1600" height="900" alt="Image" src="https://github.com/user-attachments/assets/bdb0121c-17ec-4e35-b78e-1a0777c3f688" />
 
 
 
-<img width="1600" height="900" alt="Image" src="https://github.com/user-attachments/assets/630ba675-73be-435f-ae81-fbd3e87258b7" />
 
-<img width="1600" height="900" alt="Image" src="https://github.com/user-attachments/assets/a3474622-27e6-4089-9bdb-f695bcb86631" />
+
+
+
+
 
 <img width="1600" height="900" alt="Image" src="https://github.com/user-attachments/assets/22281e3c-a421-4def-808f-6a9a4d1983af" />
 

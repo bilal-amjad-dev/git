@@ -19,9 +19,7 @@ git config --global user.email "Your email"
 
 
 **Git init**
-```bash
-git init
-```
+
 
 
 <img width="1600" height="900" alt="Image" src="https://github.com/user-attachments/assets/16e222d0-3607-47e2-96d8-52bc553940a8" />
@@ -38,19 +36,11 @@ git init
 
 **Git add**
 
-```bash
-git add 
-```
-
-
-
 <img width="1600" height="900" alt="Image" src="https://github.com/user-attachments/assets/99187994-570d-4267-8895-09368ba71f8f" />
-
-
 
 <img width="1600" height="900" alt="Image" src="https://github.com/user-attachments/assets/b5655860-fc6f-427a-9b34-a76ede001584" />
 
-
+**Git commit**
 
 <img width="1600" height="900" alt="Image" src="https://github.com/user-attachments/assets/efe3bdfb-fe3b-40b3-bfdf-26ac06254e09" />
 

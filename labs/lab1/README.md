@@ -19,12 +19,15 @@ git config --global user.email "Your email"
 
 
 
+
+
+**Git init**
+
+
 **Note:** Make a folder and go inside it
 
 <img width="1600" height="900" alt="Image" src="https://github.com/user-attachments/assets/41937291-22e5-470e-b328-1fe5132b18a7" />
 
-
-**Git init**
 
 <img width="1600" height="900" alt="Image" src="https://github.com/user-attachments/assets/16e222d0-3607-47e2-96d8-52bc553940a8" />
 

@@ -33,8 +33,7 @@ git init
 **Create a file**
 
 
-<img width="1600" height="900" alt="Image" src="https://github.com/user-attachments/assets/33e1f87d-48e7-443e-bacf-9c87f0fc3ce2" />
-
+<img width="1600" height="900" alt="Image" src="https://github.com/user-attachments/assets/11029a67-1521-439c-a5b1-0b38f2dcc965" />
 
 
 **Git add**
@@ -43,7 +42,7 @@ git init
 git add 
 ```
 
-<img width="1600" height="900" alt="Image" src="https://github.com/user-attachments/assets/11029a67-1521-439c-a5b1-0b38f2dcc965" />
+
 
 
 <img width="1600" height="900" alt="Image" src="https://github.com/user-attachments/assets/9e462a4b-bf50-40f0-b1db-02f17e5a5c77" />

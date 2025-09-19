@@ -2,21 +2,29 @@ In this lab, we create a new branch and merge main branch with new branch.
 
 git branch MyNewBranch
 
-## git branch
+
 ### git branch
-### Git branch
+
+### `git branch`
+
+`git branch`
 
 <img width="1600" height="900" alt="Image" src="https://github.com/user-attachments/assets/b39aea1a-4075-465b-9ace-7b87a35d155d" />
 
 
+### git checkout branch
 git checkout MyNewBranch
 
 <img width="1600" height="900" alt="Image" src="https://github.com/user-attachments/assets/b80c93fe-8cd4-4f34-9e70-3aa062141f43" />
+
+### Create a file
 
 touch text2.txt
 
 <img width="1600" height="900" alt="Image" src="https://github.com/user-attachments/assets/31a5605a-1bb0-4a04-a2e0-772a64662560" />
 
+
+### git add 
 git add . 
 
 <img width="1600" height="900" alt="Image" src="https://github.com/user-attachments/assets/75b0d086-7de8-4879-b1de-bb263271d7ed" />
@@ -90,6 +98,7 @@ O: delete branch
 p: you can see our branch has deleted 
 
 <img width="1600" height="900" alt="Image" src="https://github.com/user-attachments/assets/27bc9327-7d3a-43b2-9617-47f4d14b38c2" />
+
 
 
 

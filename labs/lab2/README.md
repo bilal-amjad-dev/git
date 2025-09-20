@@ -50,7 +50,10 @@ you can see our MyNewBranch has 3 files
 you can see our master branch has 2 files
 
 
+### Switch branch to main
+
 i: git checkout master
+
 it is mandatory if you have to merge, then you need to be in master
 
 <img width="1600" height="900" alt="Image" src="https://github.com/user-attachments/assets/fc7d959e-af6c-4a36-b415-1aaed86b5def" />
@@ -97,6 +100,7 @@ O: delete branch
 p: you can see our branch has deleted 
 
 <img width="1600" height="900" alt="Image" src="https://github.com/user-attachments/assets/27bc9327-7d3a-43b2-9617-47f4d14b38c2" />
+
 
 
 

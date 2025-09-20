@@ -61,6 +61,8 @@ it is mandatory if you have to merge, then you need to be in master
 i: you can see our master branch has 2 files
 
 
+
+### Mrage main branch and another branch
 j: git merge branchname
 
 <img width="1600" height="900" alt="Image" src="https://github.com/user-attachments/assets/cc562bc6-ce6e-4da7-b1fc-da652a95c8c1" />
@@ -100,6 +102,7 @@ O: delete branch
 p: you can see our branch has deleted 
 
 <img width="1600" height="900" alt="Image" src="https://github.com/user-attachments/assets/27bc9327-7d3a-43b2-9617-47f4d14b38c2" />
+
 
 
 

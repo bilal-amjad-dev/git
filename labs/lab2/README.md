@@ -69,6 +69,8 @@ j: git merge branchname
 
 
 
+
+### Push 
 k: git push -u origin master
 
 <img width="1600" height="900" alt="Image" src="https://github.com/user-attachments/assets/0baa6c16-f401-41a6-9030-f62f541a62bb" />
@@ -102,6 +104,7 @@ O: delete branch
 p: you can see our branch has deleted 
 
 <img width="1600" height="900" alt="Image" src="https://github.com/user-attachments/assets/27bc9327-7d3a-43b2-9617-47f4d14b38c2" />
+
 
 
 

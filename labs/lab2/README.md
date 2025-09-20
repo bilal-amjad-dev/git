@@ -84,7 +84,7 @@ L: you can see our MyNewBranch also has 3 files
 
 
 
-M: you can see our MyNewBranch also has 3 files
+M: you can see our Main also has 3 files
 
 <img width="1600" height="900" alt="Image" src="https://github.com/user-attachments/assets/d36ae435-9456-4fbf-92dc-faa7329e8bdc" />
 
@@ -104,6 +104,7 @@ O: delete branch
 p: you can see our branch has deleted 
 
 <img width="1600" height="900" alt="Image" src="https://github.com/user-attachments/assets/27bc9327-7d3a-43b2-9617-47f4d14b38c2" />
+
 
 
 

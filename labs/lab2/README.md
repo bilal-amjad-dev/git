@@ -35,17 +35,19 @@ git branch MyNewBranch
 <img width="1600" height="900" alt="Image" src="https://github.com/user-attachments/assets/d692fd5a-c4b7-4984-bb01-18a332b64036" />
 
 
+<img width="1600" height="900" alt="Image" src="https://github.com/user-attachments/assets/d9797efd-5861-4f57-8c8c-4c6ec6c9e611" />
+
 and you can see our MyNewBranch has 3 files
 
 
 you can see our MyNewBranch has 3 files 
 
-<img width="1600" height="900" alt="Image" src="https://github.com/user-attachments/assets/d9797efd-5861-4f57-8c8c-4c6ec6c9e611" />
 
 
-you can see our master branch has 2 files
 
 <img width="1600" height="900" alt="Image" src="https://github.com/user-attachments/assets/61fdd402-6359-430f-b69a-33e9c981dcbf" />
+
+you can see our master branch has 2 files
 
 
 i: git checkout master
@@ -95,6 +97,7 @@ O: delete branch
 p: you can see our branch has deleted 
 
 <img width="1600" height="900" alt="Image" src="https://github.com/user-attachments/assets/27bc9327-7d3a-43b2-9617-47f4d14b38c2" />
+
 
 
 

@@ -36,8 +36,10 @@ git clone <repository-url>
 ```bash
 git remote add origin https://github.com/your-github-username/your-repo-name.git
 ```
+yeh command hum usi waqt istemaal karte hain jab aapke paas yeh do shartein poori ho rahi hon:
 
-
+- Code Aapke Laptop Mein Hai
+- Repo GitHub Par Create Ho Chuki Hai
 
 **To add files from working directory to staging area**
 ```bash 

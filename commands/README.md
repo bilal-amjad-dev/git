@@ -1,4 +1,20 @@
+---
 
+26-December-2025
+
+`git clone`
+
+This command is used when you want to start working on a project that is already hosted elsewhere (e.g., GitHub, GitLab). 
+
+`git remote add origin`
+
+This command is used when you have a project on your computer that is not yet connected to a remote server (like a new repository you just created locally). 
+
+
+
+
+
+---
 
 **Download git**
 ```bash
